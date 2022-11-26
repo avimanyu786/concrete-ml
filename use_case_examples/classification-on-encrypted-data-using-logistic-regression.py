@@ -1,4 +1,4 @@
-#Example of classification on encrypted data using logistic regression mentioned at https://docs.zama.ai/concrete-ml
+# Example of classification on encrypted data using logistic regression mentioned at https://docs.zama.ai/concrete-ml
 import numpy
 from sklearn.datasets import make_classification
 from sklearn.model_selection import train_test_split
